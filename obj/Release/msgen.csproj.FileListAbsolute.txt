@@ -1,0 +1,33 @@
+D:\_System.Documents\Visual Studio 2008\Projects\msgen\bin\Release\msgen.dll
+D:\_System.Documents\Visual Studio 2008\Projects\msgen\bin\Release\msgen.pdb
+D:\_System.Documents\Visual Studio 2008\Projects\msgen\obj\Release\ResolveAssemblyReference.cache
+D:\_System.Documents\Visual Studio 2008\Projects\msgen\obj\Release\msgen.dll
+D:\_System.Documents\Visual Studio 2008\Projects\msgen\obj\Release\msgen.pdb
+D:\_System.Documents\Visual Studio 2008\Projects\msgen\obj\Release\msgen.ui.TextBoxPlus.resources
+D:\_System.Documents\Visual Studio 2008\Projects\msgen\obj\Release\msgen.csproj.GenerateResource.Cache
+F:\Projects\msgen\obj\Release\ResolveAssemblyReference.cache
+F:\Projects\msgen\obj\Release\msgen.ui.TextBoxPlus.resources
+F:\Projects\msgen\obj\Release\msgen.csproj.GenerateResource.Cache
+F:\Projects\msgen\obj\Release\msgen.dll
+F:\Projects\msgen\bin\Release\msgen.dll
+F:\Projects\msgen\bin\Release\msgen.pdb
+F:\Projects\msgen\obj\Release\msgen.pdb
+F:\Projects\msgen\obj\Release\msgen.Properties.Resources.resources
+M:\Projects\msgen\bin\Release\msgen.dll
+M:\Projects\msgen\bin\Release\msgen.pdb
+M:\Projects\msgen\obj\Release\ResolveAssemblyReference.cache
+M:\Projects\msgen\obj\Release\msgen.Properties.Resources.resources
+M:\Projects\msgen\obj\Release\msgen.ui.TextBoxPlus.resources
+M:\Projects\msgen\obj\Release\msgen.csproj.GenerateResource.Cache
+M:\Projects\msgen\obj\Release\msgen.dll
+M:\Projects\msgen\obj\Release\msgen.pdb
+D:\_System.Documents\Visual Studio 2008\Projects\msgen\obj\Release\msgen.Properties.Resources.resources
+C:\Users\xmsim\Documents\Visual Studio 2010\Projects\msgen\bin\Release\msgen.dll
+C:\Users\xmsim\Documents\Visual Studio 2010\Projects\msgen\bin\Release\msgen.pdb
+C:\Users\xmsim\Documents\Visual Studio 2010\Projects\msgen\obj\Release\ResolveAssemblyReference.cache
+C:\Users\xmsim\Documents\Visual Studio 2010\Projects\msgen\obj\Release\msgen.Properties.Resources.resources
+C:\Users\xmsim\Documents\Visual Studio 2010\Projects\msgen\obj\Release\msgen.ui.TextBoxPlus.resources
+C:\Users\xmsim\Documents\Visual Studio 2010\Projects\msgen\obj\Release\ResGen.read.1.tlog
+C:\Users\xmsim\Documents\Visual Studio 2010\Projects\msgen\obj\Release\ResGen.write.1.tlog
+C:\Users\xmsim\Documents\Visual Studio 2010\Projects\msgen\obj\Release\msgen.dll
+C:\Users\xmsim\Documents\Visual Studio 2010\Projects\msgen\obj\Release\msgen.pdb

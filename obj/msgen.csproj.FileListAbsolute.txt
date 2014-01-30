@@ -1,0 +1,10 @@
+D:\_System.Documents\Visual Studio 2005\Projects\msgen\obj\Debug\ResolveAssemblyReference.cache
+D:\_System.Documents\Visual Studio 2005\Projects\msgen\bin\Debug\msgen.pdb
+D:\_System.Documents\Visual Studio 2005\Projects\msgen\obj\Debug\msgen.pdb
+D:\_System.Documents\Visual Studio 2005\Projects\msgen\bin\Debug\msgen.dll
+D:\_System.Documents\Visual Studio 2005\Projects\msgen\obj\Debug\msgen.dll
+D:\_System.Documents\Visual Studio 2005\Projects\msgen\bin\Release\msgen.dll
+D:\_System.Documents\Visual Studio 2005\Projects\msgen\bin\Release\msgen.pdb
+D:\_System.Documents\Visual Studio 2005\Projects\msgen\obj\Release\ResolveAssemblyReference.cache
+D:\_System.Documents\Visual Studio 2005\Projects\msgen\obj\Release\msgen.dll
+D:\_System.Documents\Visual Studio 2005\Projects\msgen\obj\Release\msgen.pdb
